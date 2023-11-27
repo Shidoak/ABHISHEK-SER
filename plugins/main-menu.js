@@ -81,8 +81,6 @@ ${readMore}
 │ _${usedPrefix}moon_
 │ _${usedPrefix}question_
 │ _${usedPrefix}character_
-│ _${usedPrefix}truth_
-│ _${usedPrefix}dare_
 │ _${usedPrefix}flirt_
 │ _${usedPrefix}gay_
 │ _${usedPrefix}meme_
@@ -264,13 +262,11 @@ ${readMore}
 ╭───❮ *𝙽𝚂𝙵𝚆 𝙼𝙴𝙽𝚄* ❯
 │ _${usedPrefix}on nsfw_
 │ _${usedPrefix}off nsfw_
-│ _${usedPrefix}hentais *text*_
-│ _${usedPrefix}xnxxdl *link*_
 ╰────────────⦁
 
-╭───❮  *🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁* ❯
+╭───❮  *🎯SM BOT* ❯
 │      𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈
-│   𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺 𝚂𝚄𝚁𝙴𝚂𝙷☘️
+│   SAMRAJYAM☘️
 ╰────────────⦁`  
 conn.sendFile(m.chat, pp, 'perfil.jpg', lkr, m, false, { mentions: [who] })
 m.react('📃')
