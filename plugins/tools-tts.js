@@ -19,7 +19,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     m.reply(e + '')
     text = args.join(' ')
     if (!text) throw `📌 Example : \n${usedPrefix}${command} en Hey Its me SM BOT`
-    res = await tts(text, malayalam)
+    res = await tts(text, defaultLang)
   } finally {
     if (res) conn.sendFile(m.chat, res, 'tts.opus', null, m, true)
   }
