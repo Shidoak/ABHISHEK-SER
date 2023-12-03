@@ -6,95 +6,24 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850) 
 let lkr = `╭───❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯
 │ _${usedPrefix}ping_
-│ _${usedPrefix}uptime_
-│ _${usedPrefix}enable_
-│ _${usedPrefix}alive_
-│ _${usedPrefix}owner_
-│ _${usedPrefix}report_
 │ _${usedPrefix}bot_
-│ _${usedPrefix}script_
-│ _${usedPrefix}runtime_
-│ _${usedPrefix}infobot_
-│ _${usedPrefix}donate_
-│ _${usedPrefix}groups_
-│ _${usedPrefix}blocklist_
-│ _${usedPrefix}listprem_
 ╰─────────────⦁
 
 ╭───❮ *𝙾𝚆𝙽𝙴𝚁 𝙼𝙴𝙽𝚄* ❯
-│ _${usedPrefix}*on/off* public_
-│ _${usedPrefix}*on/off* autoreact_
-│ _${usedPrefix}fullpp_
-│ _${usedPrefix}update_
-│ _${usedPrefix}setsudo_
-│ _${usedPrefix}dltsudo_
-│ _${usedPrefix}autoadmin_
-│ _${usedPrefix}left_
-│ _${usedPrefix}banchat_
-│ _${usedPrefix}unbanchat_
 │ _${usedPrefix}ban_
 │ _${usedPrefix}unban_
 │ _${usedPrefix}banlist_
-│ _${usedPrefix}block_
-│ _${usedPrefix}unblock_
-│ _${usedPrefix}blocklist_
-│ _${usedPrefix}bc_
-│ _${usedPrefix}bcgc_
-│ _${usedPrefix}join_ 
 │ _${usedPrefix}restart_
-│ _${usedPrefix}setpp_
-│ _${usedPrefix}setprefix_
-│ _${usedPrefix}resetprefix_
-│ _${usedPrefix}resetuser_
-│ _${usedPrefix}getfile_
-│ _${usedPrefix}getplugin_
 ╰─────────────⦁
 ${readMore} 
 ╭───❮ *𝙶𝚁𝙾𝚄𝙿 𝙼𝙴𝙽𝚄* ❯
-│ _${usedPrefix}kick *@tag*_
-│ _${usedPrefix}promote *@tag*_
-│ _${usedPrefix}demote *@tag*_
-│ _${usedPrefix}infogroup_
-│ _${usedPrefix}getbio *@tag*_
-│ _${usedPrefix}resetlink_
-│ _${usedPrefix}link_
-│ _${usedPrefix}*on/off* antilink_
-│ _${usedPrefix}*on/off* antidelete_
-│ _${usedPrefix}invite_
-│ _${usedPrefix}setppgc *image*_
-│ _${usedPrefix}setname *text*_
-│ _${usedPrefix}setdesc *text*_
-│ _${usedPrefix}setwelcome *text*_
-│ _${usedPrefix}setbye *text*_
-│ _${usedPrefix}hidetag *text/image/audio/vid*_
 │ _${usedPrefix}warn *@tag*_
 │ _${usedPrefix}unwarn *@tag*_
 │ _${usedPrefix}listwarn_
-│ _${usedPrefix}listnum_
-│ _${usedPrefix}kicknum_
-│ _${usedPrefix}group *open/close*_
-│ _${usedPrefix}tagall_
 ╰─────────────⦁
 
 ╭───❮ *𝙵𝚄𝙽 𝙼𝙴𝙽𝚄* ❯
 │ _${usedPrefix}hearts_
-│ _${usedPrefix}moon_
-│ _${usedPrefix}question_
-│ _${usedPrefix}character_
-│ _${usedPrefix}flirt_
-│ _${usedPrefix}gay_
-│ _${usedPrefix}meme_
-│ _${usedPrefix}ship_
-│ _${usedPrefix}kill_
-│ _${usedPrefix}kiss_
-│ _${usedPrefix}pat_
-│ _${usedPrefix}slap_
-│ _${usedPrefix}waste_
-│ _${usedPrefix}simpcard_
-│ _${usedPrefix}hornycard_
-│ _${usedPrefix}ytcomment_
-│ _${usedPrefix}stupid_
-│ _${usedPrefix}lolicon_
 ╰─────────────⦁
 
 ╭───❮ *𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙴𝙽𝚄* ❯
